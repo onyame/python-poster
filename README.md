@@ -12,6 +12,26 @@ File format: Adobe InDesign
 
 *ACHTUNG: Bilder fehlen noch; kommen demnächst nach.*
 
+### Anmerkungen:
+
+* Ursprünglicher Upload ist Indesign CS5
+* Unveränderter Export nach IDML ergänzt (acsr)
+
+#### IDML in Scribus ab 1.5
+
+* Das IDML Format ist ein gezippter Container, der XML Daten enthält. Diese sind auch zur programmatischen Bearbeitung ohne Indesign (z.B. mit Python) geeignet!) Er enthält aber keine externen Bilddaten, nur Previewdaten!
+* Ergebnis des Test des Imports in Scribus 1.5 auf Mac OS X: 
+
+   * Textstruktur bleibt erhalten
+   * Rahmen-/Bildlayout bleibt weitgehend erhalten.
+   * Textstile sehen teilweise abweichend vom PDF aus (Liegt an der Art der Formatierung)
+   * Texte in Rahmen sind bearbeitbar
+   * Umfließen von Text um Bildrahmen hat Fehler.
+
+### Sonstiges (ToDo)
+
+* Die verwendeten Schriften sind teilweise proprietäre Lizenzen (Consolas ist z.B. via PowerPoint 2007 Viewer Installierbar aber nicht frei lizenziert) und sollten auf OpenSource Schriften umgestellt werden.
+* Sauberer Formatierung unter Verzicht auf visuelle Positionierung. Saubere Absatz und Zeichenformatierung helfen beim Öffnen auf anderen Plattformen.
 
 ## Lizenz
 
