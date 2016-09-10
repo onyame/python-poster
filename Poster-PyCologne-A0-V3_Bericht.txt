@@ -1,0 +1,148 @@
+Adobe InDesign Paketbericht
+
+SATZDATEINAME: Poster-PyCologne-A0-V3.indd
+
+PACKDATUM: 31.01.2016 16:50 Uhr
+Erstellungsdatum 31.01.2016
+Änderungsdatum: 31.01.2016
+ÜBERSICHT
+
+(Daten für ausgeblendete und nicht druckende Ebenen einblenden)
+
+Schriftarten: 6 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Verknüpfungen und Bilder: 3 Verknüpfung(en) gefunden; 0 geändert, 3 fehlend, 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 1 verwenden RGB-Farbraum
+
+Farben und Druckfarben: 4 Prozessfarbe(n); 0 Volltonfarbe(n)
+CMS ist aktiviert
+
+
+
+Externe Zusatzmodule 0
+
+
+
+Nicht deckende Objekte:Auf Seite1
+
+
+
+
+SCHRIFTARTEN
+
+6 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+- Name: AGaramondPro-Bold; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:AGaramondPro-Bold.otf
+Vollständiger Name: Adobe Garamond Pro Bold
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: AGaramondPro-BoldItalic; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:AGaramondPro-BoldItalic.otf
+Vollständiger Name: Adobe Garamond Pro Bold Italic
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: AGaramondPro-Regular; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:AGaramondPro-Regular.otf
+Vollständiger Name: Adobe Garamond Pro
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: ArialMT; Typ: OpenType TrueType, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:Arial.ttf
+Vollständiger Name: Arial
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: Consolas-Bold; Typ: OpenType TrueType, Status: OK
+Dateiname: Macintosh HD:Users:astro:FontExplorer X:Font Library:C:Consolas Bold:CONSOLAB.TTF
+Vollständiger Name: Consolas Bold
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: MinionPro-Regular; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:MinionPro-Regular.otf
+Vollständiger Name: Minion Pro
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+
+
+
+VERKNÜPFUNGEN UND BILDER
+
+Verknüpfungen und Bilder: 3 Verknüpfung(en) gefunden; 0 geändert, 3 fehlend, 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 1 verwenden RGB-Farbraum
+
+- Name: PyCologne-2012-Logo.pdf; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+Dateiname: PyCologne-2012-Logo.pdf
+Verknüpfung aktualisiert: Mi, 22. Aug 2012 11:06 Uhr
+Datei zuletzt geändert am:  
+Original ppi:    ppi effektiv: 
+Abweichende Ebeneneinstellungen: Nein
+Vollständiger Name: D:/Dropbox/Veranstaltungen/Python User Group Köln/PythonPoster/PyCologne-2012-Logo.pdf
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: PyCologne-2012-Logo.pdf; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+Dateiname: PyCologne-2012-Logo.pdf
+Verknüpfung aktualisiert: Mi, 22. Aug 2012 11:02 Uhr
+Datei zuletzt geändert am:  
+Original ppi:    ppi effektiv: 
+Abweichende Ebeneneinstellungen: Nein
+Vollständiger Name: D:/Dropbox/Veranstaltungen/Python User Group Köln/PythonPoster/PyCologne-2012-Logo.pdf
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: pythonbarcamp2.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: pythonbarcamp2.png
+Verknüpfung aktualisiert: Sa, 14. Aug 2010 11:54 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 72x72   ppi effektiv: 76x76
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Documents/Eigene Bilder/pythonbarcamp2.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+
+
+
+FARBEN UND DRUCKFARBEN
+
+
+
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+
+DRUCKEINSTELLUNGEN
+
+PPD: SHARP MX-4100/4101/5000/5001, (\\kppp01\ksc01p)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Autom.
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 841 mm x 1189 mm
+Papierabmessungen: 297,039 mm x 420,158 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus

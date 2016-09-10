@@ -1,0 +1,208 @@
+Adobe InDesign Paketbericht
+
+SATZDATEINAME: Poster-Python-Powered-A0-V3.indd
+
+PACKDATUM: 31.01.2016 16:22 Uhr
+Erstellungsdatum 31.01.2016
+Änderungsdatum: 31.01.2016
+ÜBERSICHT
+
+(Daten für ausgeblendete und nicht druckende Ebenen einblenden)
+
+Schriftarten: 6 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Verknüpfungen und Bilder: 9 Verknüpfung(en) gefunden; 0 geändert, 9 fehlend, 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 8 verwenden RGB-Farbraum
+
+Farben und Druckfarben: 4 Prozessfarbe(n); 0 Volltonfarbe(n)
+CMS ist aktiviert
+
+
+
+Externe Zusatzmodule 0
+
+
+
+Nicht deckende Objekte:Auf Seite1
+
+
+
+
+SCHRIFTARTEN
+
+6 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+- Name: AGaramondPro-Bold; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:AGaramondPro-Bold.otf
+Vollständiger Name: Adobe Garamond Pro Bold
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: AGaramondPro-Italic; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:AGaramondPro-Italic.otf
+Vollständiger Name: Adobe Garamond Pro Italic
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: AGaramondPro-Regular; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:AGaramondPro-Regular.otf
+Vollständiger Name: Adobe Garamond Pro
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: ArialMT; Typ: OpenType TrueType, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:Arial.ttf
+Vollständiger Name: Arial
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: Consolas-Bold; Typ: OpenType TrueType, Status: OK
+Dateiname: Macintosh HD:Users:astro:FontExplorer X:Font Library:C:Consolas Bold:CONSOLAB.TTF
+Vollständiger Name: Consolas Bold
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+- Name: MinionPro-Regular; Typ: OpenType Type 1, Status: OK
+Dateiname: Macintosh HD:Library:Fonts:MinionPro-Regular.otf
+Vollständiger Name: Minion Pro
+Zuerst verwendet auf Seite: 1
+Geschützt: Nein
+
+
+
+
+VERKNÜPFUNGEN UND BILDER
+
+Verknüpfungen und Bilder: 9 Verknüpfung(en) gefunden; 0 geändert, 9 fehlend, 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 8 verwenden RGB-Farbraum
+
+- Name: AeroGrid_GUI_und_StartRunDialog.bmp; Typ: Windows Bitmap RGB; Status: fehlend
+Dateiname: AeroGrid_GUI_und_StartRunDialog.bmp
+Verknüpfung aktualisiert: Sa, 13. Aug 2011 17:42 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 96x96   ppi effektiv: 271x271
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Dropbox/Veranstaltungen/20101025 Einrichtungsüberprüfung SC (Braunschweig)/Bilder/AeroGrid_GUI_und_StartRunDialog.bmp
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: DF_Logo_800x405_nackt.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: DF_Logo_800x405_nackt.png
+Verknüpfung aktualisiert: Sa, 13. Aug 2011 16:53 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 300x300   ppi effektiv: 175x175
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Documents/Projekte/DataFinder/Logo/DF_Logo_800x405_nackt.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: PyCologne-2012-Logo.pdf; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+Dateiname: PyCologne-2012-Logo.pdf
+Verknüpfung aktualisiert: Mi, 22. Aug 2012 11:02 Uhr
+Datei zuletzt geändert am:  
+Original ppi:    ppi effektiv: 
+Abweichende Ebeneneinstellungen: Nein
+Vollständiger Name: D:/Dropbox/Veranstaltungen/Python User Group Köln/PythonPoster/PyCologne-2012-Logo.pdf
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: digsby_833x833.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: digsby_833x833.png
+Verknüpfung aktualisiert: So, 8. Aug 2010 21:10 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 72x72   ppi effektiv: 288x288
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Documents/Eigene Bilder/digsby_833x833.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: esuslogo1014091.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: esuslogo1014091.png
+Verknüpfung aktualisiert: Di, 16. Aug 2011 12:47 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 300x300   ppi effektiv: 410x410
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Dropbox/Photos/esuslogo1014091.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: mercurial-logo-600dpi.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: mercurial-logo-600dpi.png
+Verknüpfung aktualisiert: Sa, 14. Aug 2010 13:22 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 600x600   ppi effektiv: 223x223
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Documents/Eigene Bilder/mercurial-logo-600dpi.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: sourceforge-screenshot.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: sourceforge-screenshot.png
+Verknüpfung aktualisiert: Sa, 13. Aug 2011 17:59 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 96x96   ppi effektiv: 245x245
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Dropbox/Photos/sourceforge-screenshot.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: turbogear-logo.jpg; Typ: JPEG RGB; Status: fehlend
+Dateiname: turbogear-logo.jpg
+Verknüpfung aktualisiert: Sa, 13. Aug 2011 16:29 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 300x300   ppi effektiv: 137x137
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Dropbox/Photos/turbogear-logo.jpg
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+- Name: youtube_logo_standard_againstwhite.png; Typ: Portable Network Graphics (PNG) RGB; Status: fehlend
+Dateiname: youtube_logo_standard_againstwhite.png
+Verknüpfung aktualisiert: So, 8. Aug 2010 21:32 Uhr
+Datei zuletzt geändert am:  
+Original ppi: 72x72   ppi effektiv: 109x109
+Abweichende Ebeneneinstellungen: n. zutr.
+Vollständiger Name: D:/Documents/Eigene Bilder/youtube_logo_standard_againstwhite.png
+Verknüpfungsprofil:   Ohne
+Auf Seite 1
+
+
+
+
+FARBEN UND DRUCKFARBEN
+
+
+
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+
+DRUCKEINSTELLUNGEN
+
+PPD: SHARP MX-4100/4101/5000/5001, (\\kppp01\ksc01p)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Ja
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Autom.
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 841 mm x 1189 mm
+Papierabmessungen: 297,039 mm x 420,158 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
